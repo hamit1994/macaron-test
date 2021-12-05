@@ -1,7 +1,8 @@
 // Declare variables
 var express = require('express');
 var app = express();
-var path = require('path');
+
+app.use(express.static("."));
 
 // '/' est la route racine
 app.get('/', function (req, res) {
