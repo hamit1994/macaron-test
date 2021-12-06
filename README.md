@@ -20,4 +20,9 @@ create a map of Paris with district and movies locations
     Puis tapez : node index.js 
     
     Le server sera demarré sur le lien : http://localhost:4000
+    
+    Allez sur le lien suivant et vous avez une page avec une carte et une liste deroulante en haut de la page pour filter en fonction de l'arrondissement 
+    
+    Je reste à votre disposition pour toute question.
+    Merci 
   
