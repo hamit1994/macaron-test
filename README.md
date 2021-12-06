@@ -2,10 +2,14 @@
 create a map of Paris with district and movies locations
 
 1 
-  Si vous n'avez pas npm installer sur votre ordinateur, installez le sur lien suivant : https://docs.npmjs.com/downloading-and-installing-node-js-and-npm
+  Si vous n'avez pas node js, installer sur le votre ordinateur sur lien suivant :
+  
+  https://nodejs.org/en/
+  
+  Après avoir installé, redemarrer votre système
 
 2
-  Placez vous avec le terminal au bureau ou le dossier Documents, Puis tapez le code suivant :
+  Placez vous à l'aide du terminal sur le bureau ou Documents, Puis tapez le code suivant :
   
     git clone -b dev https://github.com/hamit1994/macaron-test.git
     
@@ -13,13 +17,7 @@ create a map of Paris with district and movies locations
     
     cd macaron-test
     
-    Puis tapez : npm index.js 
+    Puis tapez : node index.js 
     
-
-3
-  Pensez à installer les éléments suivants si nécessaire:
-  
-    npm install express --save
-    
-    npm install leaflet --save
+    Le server sera demarré sur le lien : http://localhost:4000
   
