@@ -6,6 +6,8 @@ create a map of Paris with district and movies locations
 
 2
   Pensez à installer les éléments suivants si nécessaire:
+  
     Express : npm install express --save
+    
     Leaflet : npm install leaflet --save
   
